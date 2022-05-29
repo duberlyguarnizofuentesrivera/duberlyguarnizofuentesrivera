@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duberly Guarnizo</h1>
 <h3 align="center">Engineering student and backend Java developer with passion for Opera music and literature (also, with a degree in economics)</h3>
 
-- ⚡ Fun fact **I love to sing, even if my voice sounds terible...**
+- ⚡ Fun fact **I love to sing, even if my voice sounds terrible...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
