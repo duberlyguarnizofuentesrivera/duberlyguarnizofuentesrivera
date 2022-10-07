@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duberly Guarnizo</h1>
 <h3 align="center">Engineering student and backend Java developer with passion for Opera music and literature (also, with a degree in economics)</h3>
 
-- With developer experience in Java, Springboot, SQL, Python, JS, HTML and CSS
+- With developer experience in Java, Springboot, Angular, SQL, Python, JS, HTML and CSS
 - Unit Testing fan 
 - Experience with deployment on DigitalOcean's VPS
 - Basic PHP experience
