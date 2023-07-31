@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Duberly Guarnizo</h1>
-<h3 align="center">Engineering student and backend Java developer with passion for Opera music and literature (also, with a degree in economics)</h3>
+<h2 align="center">Software Developer with more than 6 years of experience</h2>
+<h3 align="center">Economist, Engineering student and backend Java developer with passion for backend technologies</h3>
 
-- With developer experience in Java, Springboot, Angular, SQL, Python, JS, HTML and CSS
-- Unit Testing fan 
+- With developer experience in Java, Springboot, Spring Security, JakartaEE, Angular, SQL, Python, JS, HTML and CSS
+- Unit Testing & TDD fan
 - Experience with deployment on DigitalOcean's VPS
 - Basic PHP experience
 - Linux rocks! Currently using Manjaro, I've used Ubuntu, Fedora, Puppy, Madriva (which is ancient!)
-- Stata, Matlab, I've played with GNU Octave too (two decades ago)!
-- ⚡ Fun fact: **I love to sing, even if my voice sounds terrible...**
+- Stata, Matlab, I've played with GNU Octave too (one decade ago)!
+- ⚡ Fun fact: **I love to teach...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
